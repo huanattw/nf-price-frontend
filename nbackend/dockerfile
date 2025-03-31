@@ -1,0 +1,34 @@
+FROM node:20-slim
+
+# Create app directory
+WORKDIR /usr/src/app
+
+# Install app dependencies
+# A wildcard is used to ensure both package.json AND package-lock.json are copied
+# where available (npm@5+)
+COPY package*.json ./
+
+RUN npm ci --only=production
+
+# Bundle app source
+COPY . .
+
+# The app binds to port 5002
+EXPOSE 5002
+
+# Define healthcheck
+HEALTHCHECK --interval=30s --timeout=5s --start-period=5s --retries=3 \
+  CMD curl -f http://localhost:5002/health || exit 1
+
+# Run as non-root user for better security
+# Create a group and user
+RUN groupadd -r appuser && useradd -r -g appuser appuser
+
+# Change ownership to user
+RUN chown -R appuser:appuser /usr/src/app
+
+# Switch to non-root user
+USER appuser
+
+# Start the application
+CMD [ "npm", "start" ]

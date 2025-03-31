@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Netflix Price Table</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header class="page-header">
+        <h1 class="page-title">Netflix Price Table</h1>
+        <p class="page-subtitle">Netflix 全球服務價格一覽表</p>
+        <button id="darkModeToggle" class="theme-toggle" aria-label="切換深色/淺色模式">
+            <i class="fas fa-moon"></i>
+        </button>
+    </header>
+
+    <div class="container">
+        <!-- Tab Navigation -->
+        <div class="tab-navigation">
+            <button class="tab-button active" data-tab="price-tab">
+                <i class="fas fa-tags"></i> 價格表
+            </button>
+            <button class="tab-button" data-tab="changelog-tab">
+                <i class="fas fa-history"></i> 變更記錄
+            </button>
+        </div>
+
+        <!-- Price Tab Content -->
+        <div class="tab-content active" id="price-tab">
+            <div class="card">
+                <div class="table-controls">
+                    <div class="table-title">
+                        <i class="fas fa-globe"></i> 價格資訊
+                    </div>
+                    <div class="controls-wrapper">
+                        <div class="currency-selector-container">
+                            <label for="currencySelector">貨幣顯示:</label>
+                            <select id="currencySelector" class="currency-selector">
+                                <option value="USD">USD - 美元</option>
+                                <option value="CNY">CNY - 人民幣</option>
+                                <option value="TWD">TWD - 新台幣</option>
+                                <option value="NGN">NGN - 奈及利亞奈拉</option>
+                            </select>
+                        </div>
+                        <div class="search-container">
+                            <!-- <i class="fas fa-search search-icon"></i> -->
+                            <input type="text" id="searchInput" placeholder="搜尋國家、地區或貨幣..." class="search-input">
+                            <button id="clearSearch" class="clear-button">
+                                <i class="fas fa-times"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="table-responsive">
+                    <table id="pricingTable">
+                        <thead>
+                            <tr>
+                                <th class="sortable" data-sort="country">國家 <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="mobile">Mobile <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="basic">Basic/Ads <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="standardads">Standard/Ads <span
+                                        class="sort-icon"></span>
+                                </th>
+                                <th class="sortable" data-sort="standard">Standard <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="premium">Premium <span class="sort-icon"></span></th>
+                            </tr>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- 表格內容將通過JavaScript動態生成 -->
+                        </tbody>
+                    </table>
+
+                    <!-- 分頁控件容器 -->
+                    <div class="pagination-container">
+                        <!-- 分頁控件將通過JavaScript動態生成 -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Change Log Tab Content -->
+        <div class="tab-content" id="changelog-tab">
+            <div class="card">
+                <div class="table-controls">
+                    <div class="table-title">
+                        <i class="fas fa-history"></i> 變更記錄
+                    </div>
+                    <div class="controls-wrapper">
+                        <div class="search-container">
+                            <input type="text" id="changelogSearchInput" placeholder="搜尋變更記錄..." class="search-input">
+                            <button id="clearChangelogSearch" class="clear-button">
+                                <i class="fas fa-times"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="table-responsive">
+                    <table id="changelogTable">
+                        <thead>
+                            <tr>
+                                <th class="sortable" data-sort="date">日期 <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="country">國家 <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="mobile">Mobile <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="basic">Basic/Ads <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="premium">Standard/Ads <span class="sort-icon"></span>
+                                </th>
+                                <th class="sortable" data-sort="standard">Standard <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="premium">Premium <span class="sort-icon"></span></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- 變更記錄表格內容將通過JavaScript動態生成 -->
+                            <tr>
+                                <td colspan="6" class="loading-data">載入中...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <!-- 分頁控件容器 -->
+                    <div class="pagination-container" id="changelogPagination">
+                        <!-- 分頁控件將通過JavaScript動態生成 -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Load JavaScript files in the correct order -->
+    <script src="./js/price.js"></script>
+    <script src="./js/change.js"></script>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>

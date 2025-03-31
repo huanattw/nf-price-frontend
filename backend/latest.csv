@@ -1,0 +1,246 @@
+country_code,country_name,mobile,basic,Standard/Ads,standard,premium,currency
+AD,Andorra,,8.99,,13.99,19.99,EUR
+AE,United Arab Emirates,,35.0,,49.0,71.0,AED
+AF,Afghanistan,,3.99,,7.99,9.99,USD
+AG,Antigua & Barbuda,,10.99,,15.49,19.99,USD
+AI,Anguilla,,10.99,,15.49,19.99,USD
+AL,Albania,,4.99,,7.99,9.99,EUR
+AM,Armenia,,7.99,,9.99,11.99,EUR
+AO,Angola,2.99,3.99,,7.99,9.99,USD
+AQ,Antarctica,,11.99,,17.99,24.99,USD
+AR,Argentina,,5999.0,,9999.0,13499.0,ARS
+AS,American Samoa,,,7.99,17.99,24.99,USD
+AT,Austria,,8.99,,13.99,19.99,EUR
+AU,Australia,,,7.99,18.99,25.99,AUD
+AW,Aruba,,10.99,,15.49,19.99,USD
+AX,Åland Islands,,9.49,,13.99,17.99,EUR
+AZ,Azerbaijan,,7.99,,9.99,11.99,EUR
+BA,Bosnia & Herzegovina,,4.99,,7.99,9.99,EUR
+BB,Barbados,,10.59,,15.29,18.79,USD
+BD,Bangladesh,2.99,3.99,,7.99,9.99,USD
+BE,Belgium,,9.99,,14.99,19.99,EUR
+BF,Burkina Faso,2.99,3.99,,7.99,9.99,USD
+BG,Bulgaria,,4.99,,7.99,9.99,EUR
+BH,Bahrain,,7.99,,10.49,15.79,USD
+BI,Burundi,2.99,3.99,,7.99,9.99,USD
+BJ,Benin,2.99,3.99,,7.99,9.99,USD
+BL,St. Barthélemy,,3.99,,5.99,7.99,USD
+BM,Bermuda,,10.99,,15.49,19.99,USD
+BN,Brunei,6.49,10.99,,13.99,17.99,USD
+BO,Bolivia,,3.99,,5.99,7.99,USD
+BQ,Caribbean Netherlands,,10.99,,15.49,19.99,USD
+BR,Brazil,,,20.9,44.9,59.9,BRL
+BS,Bahamas,,10.99,,15.49,19.99,USD
+BT,Bhutan,2.99,3.99,,7.99,9.99,USD
+BV,Bouvet Island,,7.99,,9.99,11.99,USD
+BW,Botswana,2.99,3.99,,7.99,9.99,USD
+BY,Belarus,,7.99,,9.99,11.99,EUR
+BZ,Belize,,3.99,,5.99,7.99,USD
+CA,Canada,,,7.99,18.99,23.99,CAD
+CC,Cocos (Keeling) Islands,,12.99,,18.99,25.99,AUD
+CD,Congo - Kinshasa,2.99,3.99,,7.99,9.99,USD
+CF,Central African Republic,2.99,3.99,,7.99,9.99,USD
+CG,Congo - Brazzaville,2.99,3.99,,7.99,9.99,USD
+CH,Switzerland,,12.9,,20.9,27.9,CHF
+CI,Côte d’Ivoire,2.99,3.99,,7.99,9.99,USD
+CK,Cook Islands,,14.99,,20.99,27.99,NZD
+CL,Chile,,6540.0,,9190.0,11790.0,CLP
+CM,Cameroon,2.99,3.99,,7.99,9.99,USD
+CO,Colombia,,18900.0,,29900.0,44900.0,COP
+CR,Costa Rica,,8.99,,12.99,15.99,USD
+CU,Cuba,,3.99,,5.99,7.99,USD
+CV,Cape Verde,2.99,3.99,,7.99,9.99,USD
+CW,Curaçao,,10.99,,15.49,19.99,USD
+CX,Christmas Island,,3.99,,7.99,9.99,USD
+CY,Cyprus,,8.99,,12.49,15.99,EUR
+CZ,Czechia,,239.0,,309.0,379.0,CZK
+DE,Germany,,,4.99,13.99,19.99,EUR
+DJ,Djibouti,2.99,3.99,,7.99,9.99,USD
+DK,Denmark,,89.0,,129.0,169.0,DKK
+DM,Dominica,,3.99,,5.99,7.99,USD
+DO,Dominican Republic,,6.99,,9.99,13.99,USD
+DZ,Algeria,,3.99,,7.99,9.99,USD
+EC,Ecuador,,5.99,,8.99,11.99,USD
+EE,Estonia,,7.99,,9.99,11.99,EUR
+EG,Egypt,,100.0,,170.0,240.0,EGP
+EH,Western Sahara,,7.99,,9.99,11.99,USD
+ER,Eritrea,2.99,3.99,,7.99,9.99,USD
+ES,Spain,,,6.99,13.99,19.99,EUR
+ET,Ethiopia,2.99,3.99,,7.99,9.99,USD
+FI,Finland,,9.49,,13.99,17.99,EUR
+FJ,Fiji,2.99,3.99,,7.99,9.99,USD
+FK,Falkland Islands,,11.99,,17.99,24.99,USD
+FM,Micronesia,,,7.99,17.99,24.99,USD
+FO,Faroe Islands,,89.0,,129.0,169.0,DKK
+FR,France,,,5.99,13.49,19.99,EUR
+GA,Gabon,2.99,3.99,,7.99,9.99,USD
+GB,United Kingdom,,,,12.99,18.99,GBP
+GD,Grenada,,3.99,,5.99,7.99,USD
+GE,Georgia,,9.39,,11.79,13.99,EUR
+GF,French Guiana,,10.99,,13.49,17.99,EUR
+GG,Guernsey,,,,12.99,18.99,GBP
+GH,Ghana,2.99,3.99,,7.99,9.99,USD
+GI,Gibraltar,,8.99,,13.99,19.99,EUR
+GL,Greenland,,89.0,,129.0,169.0,DKK
+GM,Gambia,2.99,3.99,,7.99,9.99,USD
+GN,Guinea,2.99,3.99,,7.99,9.99,USD
+GP,Guadeloupe,,10.99,,13.49,17.99,EUR
+GQ,Equatorial Guinea,2.99,3.99,,7.99,9.99,USD
+GR,Greece,,8.99,,12.49,15.99,EUR
+GS,South Georgia & South Sandwich Islands,,11.99,,17.99,24.99,USD
+GT,Guatemala,,5.99,,8.99,12.49,USD
+GU,Guam,,,7.99,17.99,24.99,USD
+GW,Guinea-Bissau,2.99,3.99,,7.99,9.99,USD
+GY,Guyana,,3.99,,5.99,7.99,USD
+HK,Hong Kong,,73.0,,88.0,108.0,HKD
+HM,Heard & McDonald Islands,,11.99,,17.99,24.99,USD
+HN,Honduras,,6.99,,9.99,13.99,USD
+HR,Croatia,,5.99,,9.99,12.99,EUR
+HT,Haiti,,3.99,,5.99,7.99,USD
+HU,Hungary,,2890.0,,3990.0,5090.0,HUF
+ID,Indonesia,54000.0,65000.0,,120000.0,186000.0,IDR
+IE,Ireland,,10.99,,16.99,23.99,EUR
+IL,Israel,,32.9,,54.9,69.9,ILS
+IM,Isle of Man,,,,12.99,18.99,GBP
+IN,India,149.0,199.0,,499.0,649.0,INR
+IO,British Indian Ocean Territory,2.99,3.99,,7.99,9.99,USD
+IQ,Iraq,,3.99,,7.99,9.99,USD
+IR,Iran,,3.99,,7.99,9.99,USD
+IS,Iceland,,9.99,,14.99,20.99,EUR
+IT,Italy,,,6.99,13.99,19.99,EUR
+JE,Jersey,,,,12.99,18.99,GBP
+JM,Jamaica,,4.99,,6.99,9.99,USD
+JO,Jordan,,3.99,,7.99,9.99,USD
+JP,Japan,,,890.0,1590.0,2290.0,JPY
+KE,Kenya,200.0,300.0,,700.0,1100.0,KES
+KG,Kyrgyzstan,,7.99,,9.99,11.99,EUR
+KH,Cambodia,2.99,3.99,,7.99,9.99,USD
+KI,Kiribati,2.99,3.99,,7.99,9.99,USD
+KM,Comoros,2.99,3.99,,7.99,9.99,USD
+KN,St. Kitts & Nevis,,10.99,,15.49,19.99,USD
+KR,South Korea,,,5500.0,13500.0,17000.0,KRW
+KW,Kuwait,,8.99,,11.99,17.99,USD
+KY,Cayman Islands,,10.99,,15.49,19.99,USD
+KZ,Kazakhstan,,7.99,,9.99,11.99,EUR
+LA,Laos,2.99,3.99,,7.99,9.99,USD
+LB,Lebanon,,3.99,,7.99,9.99,USD
+LC,St. Lucia,,3.99,,5.99,7.99,USD
+LI,Liechtenstein,,12.9,,20.9,27.9,CHF
+LK,Sri Lanka,2.99,3.99,,7.99,9.99,USD
+LR,Liberia,2.99,3.99,,7.99,9.99,USD
+LS,Lesotho,2.99,3.99,,7.99,9.99,USD
+LT,Lithuania,,7.99,,9.99,11.99,EUR
+LU,Luxembourg,,9.99,,14.99,19.99,EUR
+LV,Latvia,,7.99,,9.99,11.99,EUR
+LY,Libya,,3.99,,7.99,9.99,USD
+MA,Morocco,,35.0,,65.0,95.0,MAD
+MC,Monaco,,10.99,,13.49,19.99,EUR
+MD,Moldova,,7.99,,9.99,11.99,EUR
+ME,Montenegro,,4.99,,7.99,9.99,EUR
+MF,St. Martin,,3.99,,5.99,7.99,USD
+MG,Madagascar,2.99,3.99,,7.99,9.99,USD
+MH,Marshall Islands,,,7.99,17.99,24.99,USD
+MK,North Macedonia,,4.99,,7.99,9.99,EUR
+ML,Mali,2.99,3.99,,7.99,9.99,USD
+MM,Myanmar (Burma),2.99,3.99,,7.99,9.99,USD
+MN,Mongolia,2.99,3.99,,7.99,9.99,USD
+MO,Macau,,7.99,,9.99,11.99,USD
+MP,Northern Mariana Islands,,,7.99,17.99,24.99,USD
+MQ,Martinique,,10.99,,13.49,17.99,EUR
+MR,Mauritania,2.99,3.99,,7.99,9.99,USD
+MS,Montserrat,,10.99,,15.49,19.99,USD
+MT,Malta,,8.99,,13.99,19.99,EUR
+MU,Mauritius,2.99,3.99,,7.99,9.99,USD
+MV,Maldives,6.49,10.99,,13.99,17.99,USD
+MW,Malawi,2.99,3.99,,7.99,9.99,USD
+MX,Mexico,,,119.0,249.0,329.0,MXN
+MY,Malaysia,18.9,29.9,,49.9,62.9,MYR
+MZ,Mozambique,2.99,3.99,,7.99,9.99,USD
+NA,Namibia,2.99,3.99,,7.99,9.99,USD
+NC,New Caledonia,6.49,10.99,,13.99,17.99,USD
+NE,Niger,2.99,3.99,,7.99,9.99,USD
+NF,Norfolk Island,,12.99,,18.99,25.99,AUD
+NG,Nigeria,2200.0,3500.0,,5500.0,7000.0,NGN
+NI,Nicaragua,,4.99,,6.99,9.99,USD
+NL,Netherlands,,8.99,,13.99,18.99,EUR
+NO,Norway,,99.0,,129.0,189.0,NOK
+NP,Nepal,2.99,3.99,,7.99,9.99,USD
+NR,Nauru,6.49,10.99,,13.99,17.99,USD
+NU,Niue,,14.99,,20.99,27.99,NZD
+NZ,New Zealand,,14.99,,20.99,27.99,NZD
+OM,Oman,,8.39,,10.49,15.79,USD
+PA,Panama,,5.99,,9.99,13.99,USD
+PE,Peru,,28.9,,40.9,52.9,PEN
+PF,French Polynesia,6.49,10.99,,13.99,17.99,USD
+PG,Papua New Guinea,2.99,3.99,,7.99,9.99,USD
+PH,Philippines,149.0,249.0,,399.0,549.0,PHP
+PK,Pakistan,250.0,450.0,,800.0,1100.0,PKR
+PL,Poland,,33.0,,49.0,67.0,PLN
+PM,St. Pierre & Miquelon,,10.99,,13.49,19.99,EUR
+PN,Pitcairn Islands,2.99,3.99,,7.99,9.99,USD
+PR,Puerto Rico,,,7.99,17.99,24.99,USD
+PS,Palestine,,3.99,,7.99,9.99,USD
+PT,Portugal,,8.99,,12.99,17.99,EUR
+PW,Palau,,,7.99,17.99,24.99,USD
+PY,Paraguay,,3.99,,5.99,7.99,USD
+QA,Qatar,,8.99,,11.99,17.99,USD
+RE,Réunion,,10.99,,13.49,17.99,EUR
+RO,Romania,,5.99,,10.99,13.99,EUR
+RS,Serbia,,4.99,,7.99,9.99,EUR
+RW,Rwanda,2.99,3.99,,7.99,9.99,USD
+SA,Saudi Arabia,,35.0,,49.0,71.0,SAR
+SB,Solomon Islands,2.99,3.99,,7.99,9.99,USD
+SC,Seychelles,2.99,3.99,,7.99,9.99,USD
+SD,Sudan,,3.99,,7.99,9.99,USD
+SE,Sweden,,109.0,,149.0,199.0,SEK
+SG,Singapore,,13.98,,19.98,25.98,SGD
+SH,St. Helena,2.99,3.99,,7.99,9.99,USD
+SI,Slovenia,,4.99,,7.99,9.99,EUR
+SJ,Svalbard & Jan Mayen,,99.0,,129.0,189.0,NOK
+SK,Slovakia,,9.49,,11.49,13.99,EUR
+SL,Sierra Leone,2.99,3.99,,7.99,9.99,USD
+SM,San Marino,,,6.99,13.99,19.99,EUR
+SN,Senegal,2.99,3.99,,7.99,9.99,USD
+SO,Somalia,2.99,3.99,,7.99,9.99,USD
+SR,Suriname,,3.99,,5.99,7.99,USD
+SS,South Sudan,2.99,3.99,,7.99,9.99,USD
+ST,São Tomé & Príncipe,2.99,3.99,,7.99,9.99,USD
+SV,El Salvador,,5.99,,8.99,12.49,USD
+SX,Sint Maarten,,10.99,,15.49,19.99,USD
+SZ,Eswatini,2.99,3.99,,7.99,9.99,USD
+TC,Turks & Caicos Islands,,10.99,,15.49,19.99,USD
+TD,Chad,2.99,3.99,,7.99,9.99,USD
+TF,French Southern Territories,,,5.99,13.49,19.99,EUR
+TG,Togo,2.99,3.99,,7.99,9.99,USD
+TH,Thailand,99.0,169.0,,349.0,419.0,THB
+TJ,Tajikistan,,9.39,,11.79,13.99,EUR
+TK,Tokelau,,14.99,,20.99,27.99,NZD
+TL,Timor-Leste,2.99,3.99,,7.99,9.99,USD
+TM,Turkmenistan,,7.99,,9.99,11.99,EUR
+TN,Tunisia,,3.99,,7.99,9.99,USD
+TO,Tonga,2.99,3.99,,7.99,9.99,USD
+TR,Türkiye,,149.99,,229.99,299.99,TRY
+TT,Trinidad and Tobago,,10.99,,15.49,19.99,USD
+TV,Tuvalu,2.99,3.99,,7.99,9.99,USD
+TW,Taiwan,,290.0,,380.0,460.0,TWD
+TZ,Tanzania,2.99,3.99,,7.99,9.99,USD
+UA,Ukraine,,4.99,,7.49,9.99,EUR
+UG,Uganda,2.99,3.99,,7.99,9.99,USD
+UM,U.S. Outlying Islands,,11.99,,17.99,24.99,USD
+US,United States,,,7.99,17.99,24.99,USD
+UY,Uruguay,,9.99,,13.99,17.99,USD
+UZ,Uzbekistan,,7.99,,9.99,11.99,EUR
+VA,Vatican City,,,6.99,13.99,19.99,EUR
+VC,St. Vincent & Grenadines,,3.99,,5.99,7.99,USD
+VE,Venezuela,,3.99,,5.99,7.99,USD
+VG,British Virgin Islands,,10.99,,15.49,19.99,USD
+VI,U.S. Virgin Islands,,,7.99,17.99,24.99,USD
+VN,Vietnam,70000.0,108000.0,,220000.0,260000.0,VND
+VU,Vanuatu,2.99,3.99,,7.99,9.99,USD
+WF,Wallis & Futuna,2.99,3.99,,7.99,9.99,USD
+WS,Samoa,2.99,3.99,,7.99,9.99,USD
+YE,Yemen,,3.99,,7.99,9.99,USD
+YT,Mayotte,,10.99,,13.49,17.99,EUR
+ZA,South Africa,49.0,99.0,,159.0,199.0,ZAR
+ZM,Zambia,2.99,3.99,,7.99,9.99,USD
+ZW,Zimbabwe,2.99,3.99,,7.99,9.99,USD
